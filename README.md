@@ -47,8 +47,9 @@ NordVPN là một VPN dễ sử dụng, đăng nhập và sử dụng qua tài k
 - [Mullvad VPN](https://mullvad.net/): Mullvad VPN là một VPN được quản lý, không có tài khoản, không có nhật kí, không có lời hứa sặc mùi quảng cáo. Mullvad VPN đơn giản là VPN và quyền riêng tư.
 - [IVPN](https://www.ivpn.net/): IVPN cũng giống như Mullvad, là một VPN được quản lý không có tài , không có nhật ký.
 ### VPN miễn phí
+**LƯU Ý QUANN TRỌNG**: KHÔNG BAO GIỜ TIN TƯỞNG BẤT CỨ DỊCH VỤ VPN MIỄN PHÍ NÀO NGOÀI 2 DỊCH VỤ ĐƯỢC LIỆT KÊ Ở DƯỚI ĐÂY. VIỆC SỬ DỤNG VPN MIỄN PHÍ ĐEM LẠI RỦI RO CỰC KÌ CAO. NHÀ CUNG CẤP VPN MIỄN PHÍ CÓ THỂ BÁN THÔNG TIN CỦA BẠN, NGUY HIỂM HƠN CHÚNG CÓ THỂ LÀ HONEYPOT, BIẾN THIẾT BỊ CỦA BẠN THÀNH CÔNG CỤ KHAI THÁC, TẤN CÔNG!
 Hai VPN miễn phí duy nhất được mình khuyến nghị là:
-- [CloudFlare Warp](https://1.1.1.1/): Một VPN miễn phsi của CloudFlare, không thực sự bảo vệ bạn hoàn toàn nhưng có thể giúp bạn truy cập các trang web bị nhà mạng cấm một cách dễ dàng.
+- [CloudFlare Warp](https://1.1.1.1/): Một VPN miễn phí của CloudFlare, không thực sự bảo vệ bạn hoàn toàn nhưng có thể giúp bạn truy cập các trang web bị nhà mạng cấm một cách dễ dàng.
 - [Proton VPN](https://protonvpn.com/): Một VPN MIỄN PHÍ DUY NHẤT TRÊN THẾ GIỚI thực sự bảo mật. VPN không có nhật kí, trụ sở công ty được đặt ở quốc gia đặt quyền riêng tư trên hàng đầu. Có các máy chủ đặt ở căn cứ quân sự cũ được Proton mua lại (chỉ máy chủ Secure Core ở gói trả phí).
 ### VPN không được quản lý
 VPN không được quản lý, hay còn gọi là tự quản lý là máy chủ VPN do chính bạn tạo ra. Đặc điểm của loại VPN này là bạn an toàn tuyệt đối, vì máy chủ VPN thuộc sở hữu của bạn. Nhà cung cấp máy chủ được tin cậy là:
