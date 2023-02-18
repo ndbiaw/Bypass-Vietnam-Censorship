@@ -45,7 +45,7 @@ VPN được quản lý là các máy chủ VPN được cấu hình sẵn để
 NordVPN là một VPN dễ sử dụng, đăng nhập và sử dụng qua tài khoản NordVPN nên dễ dàng quản lý. NordVPN có các IP với độ tin cậy cao nhằm tránh bị liệt vào Blacklist. NordVPN cũng có các máy chủ VPN để có thể xem các nội dung bị cấm theo địa lý trên Netflix, Spotify, Hulu, v.v
 2. VPN không có tài khoản:
 - [Mullvad VPN](https://mullvad.net/): Mullvad VPN là một VPN được quản lý, không có tài khoản, không có nhật kí, không có lời hứa sặc mùi quảng cáo. Mullvad VPN đơn giản là VPN và quyền riêng tư.
-- [IVPN](https://www.ivpn.net/): IVPN cũng giống như Mullvad, là một VPN được quản lý không có tài , không có nhật ký.
+- [IVPN](https://www.ivpn.net/): IVPN cũng giống như Mullvad, là một VPN được quản lý không có tài khoản, không có nhật ký.
 ### VPN miễn phí
 **LƯU Ý QUANN TRỌNG**: KHÔNG BAO GIỜ TIN TƯỞNG BẤT CỨ DỊCH VỤ VPN MIỄN PHÍ NÀO NGOÀI 2 DỊCH VỤ ĐƯỢC LIỆT KÊ Ở DƯỚI ĐÂY. VIỆC SỬ DỤNG VPN MIỄN PHÍ ĐEM LẠI RỦI RO CỰC KÌ CAO. NHÀ CUNG CẤP VPN MIỄN PHÍ CÓ THỂ BÁN THÔNG TIN CỦA BẠN, NGUY HIỂM HƠN CHÚNG CÓ THỂ LÀ HONEYPOT, BIẾN THIẾT BỊ CỦA BẠN THÀNH CÔNG CỤ KHAI THÁC, TẤN CÔNG!
 Hai VPN miễn phí duy nhất được mình khuyến nghị là:
