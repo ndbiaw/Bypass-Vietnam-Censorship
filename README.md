@@ -34,7 +34,7 @@ Qua hai câu chuyện ngắn ở trên, ta có thể thấy chỉ cần biết �
 - Lọc quảng cáo, trình theo dõi: dns.adguard-dns.com
 - Lọc quảng cáo, tình theo dõi, trang web khiêu dâm, kết quả tìm kiếm khiêu dâm: family.adguard-dns.com
 ## DPI Spoofing
-- Windows: [GoodbyDPI by ValdikSS](https://github.com/ValdikSS/GoodbyeDPI)
+- Windows: [GoodbyeDPI by ValdikSS](https://github.com/ValdikSS/GoodbyeDPI)
 - Linux/MacOS: [SpoofDPI by xvzc](https://github.com/xvzc/SpoofDPI)
 - Android: [PowerTunnel by krlvm](https://github.com/krlvm/PowerTunnel-Android)
 - Windows/Linux/MacOS: [PowerTunnel by krlvm](https://github.com/krlvm/PowerTunnel)
